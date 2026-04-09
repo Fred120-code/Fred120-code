@@ -8,7 +8,7 @@
   ### Language
   [![My Skills](https://skillicons.dev/icons?i=c,python,javascript&perline=3)](https://skillicons.dev)
   ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,nextjs,bootstrap)](https://skillicons.dev)
   ### Backend
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs)](https://skillicons.dev)
   ### Database
