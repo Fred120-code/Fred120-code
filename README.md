@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fred120-code&theme=highcontrast)](https://git.io/streak-stats)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fred120-code&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
