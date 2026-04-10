@@ -6,13 +6,13 @@
 ## ⚙️ Tech Stack:
 
   ### Language
-  [![My Skills](https://skillicons.dev/icons?i=c,python,javascript,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,python,javascript,ts,java)](https://skillicons.dev)
   ### Frontend
-  [![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,nextjs,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=tailwindcss,react,nextjs,bootstrap,redux)](https://skillicons.dev)
   ### Backend
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nextjs)](https://skillicons.dev)
-  ### Database
-  [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase)](https://skillicons.dev)
+  ### Database & ORM
+  [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,firebase,supabase,prisma)](https://skillicons.dev)
   ### Tools & Environment
   [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,postman)](https://skillicons.dev)
   ### Design
