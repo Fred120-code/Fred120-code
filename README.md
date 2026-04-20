@@ -1,8 +1,5 @@
 ## 👋 Hey, moi c'est JORAN FRED Développeur Fullstack JavaScript 
 
-                 Je construis des applications web robustes et scalables, en maîtrisant toute la chaîne de développement,
-                                                 du frontend au backend.  
-
 ## ⚙️ Tech Stack:
 
   ### Language
