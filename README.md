@@ -10,7 +10,7 @@ Building modern SaaS applications focused on solving operational challenges for 
 An open-source project management platform built for collaborative teams and fast-growing projects.  
 Provides workspaces, task management, analytics, and collaboration tools to simplify project planning and execution in one place.
 
-### SmartStock
+### [SmartStock](https://smart-stock-six-gamma.vercel.app/)
 A fullstack inventory management platform built for retailers and small businesses.  
 Focused on helping businesses track stock movements, reduce inventory errors, and manage operations efficiently through a simple and accessible interface.
 
