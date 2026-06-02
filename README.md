@@ -31,9 +31,7 @@ Helps users monitor spending, organize transactions, and better manage their bud
 ---
 
 ## Tech Focus
-
-JavaScript • TypeScript • React • Next.js • Node.js • Prisma • PostgreSQL • MongoDB
-
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,prisma,postgres,mongodb&theme=light)](https://skillicons.dev)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fred120-code&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 
