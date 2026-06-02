@@ -1,6 +1,6 @@
 # Fullstack JavaScript Developer
 
-Building modern SaaS applications focused on solving operational challenges for small businesses and teams in emerging markets.
+Building modern SaaS applications focused on solving operational challenges.
 
 ---
 
@@ -23,7 +23,7 @@ Helps users monitor spending, organize transactions, and better manage their bud
 
 ## Current Focus
 
-- SaaS development for small businesses
+- SaaS development for businesses
 - Business automation tools
 - Fullstack architecture 
 - Scalable backend systems & clean UI design
