@@ -31,7 +31,7 @@ Helps users monitor spending, organize transactions, and better manage their bud
 ---
 
 ## Tech Focus
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,prisma,postgres,mongodb,tailwindcss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,prisma,postgres,mongodb,tailwindcss,python,php&theme=dark)](https://skillicons.dev)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fred120-code&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
 
