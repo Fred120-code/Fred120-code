@@ -28,13 +28,13 @@ I build practical web applications and SaaS products, with a focus on clean user
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Fred120-code/screen-recording-saa">🎬 SnapCast</a></h3>
+      <h3><a href="https://github.com/Fred120-code/screen-recording-saa"> SnapCast</a></h3>
       A web application for recording and sharing videos, built with Next.js.
       <br/><br/>
       <a href="https://github.com/Fred120-code/screen-recording-saa">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Fred120-code/spendly-saas">💸 Spendly AI</a></h3>
+      <h3><a href="https://github.com/Fred120-code/spendly-saas"> Spendly AI</a></h3>
       A personal-finance SaaS for budgets, transactions, dashboards, and AI-powered financial insights.
       <br/><br/>
       <a href="https://github.com/Fred120-code/spendly-saas">View repository →</a>
@@ -42,13 +42,13 @@ I build practical web applications and SaaS products, with a focus on clean user
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Fred120-code/smartStock-pro">📦 SmartStock</a></h3>
+      <h3><a href="https://github.com/Fred120-code/smartStock-pro"> SmartStock</a></h3>
       Inventory management for small businesses, with stock alerts, dashboards, and AI-generated reports.
       <br/><br/>
       <a href="https://github.com/Fred120-code/smartStock-pro">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://project-manager-client-gold.vercel.app/">📋 Project Manager</a></h3>
+      <h3><a href="https://project-manager-client-gold.vercel.app/"> Project Manager</a></h3>
       A project-management application focused on organizing work, tasks, and collaboration.
       <br/><br/>
       <a href="https://github.com/Fred120-code">Explore my repositories →</a>
@@ -60,9 +60,6 @@ I build practical web applications and SaaS products, with a focus on clean user
 
 ### Development
 [![Development skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,postgres,mongodb,python&theme=dark)](https://skillicons.dev)
-
-### Tools & infrastructure
-[![Tools and infrastructure](https://skillicons.dev/icons?i=git,github,linux,bash,docker,githubactions,aws,vscode&theme=dark)](https://skillicons.dev)
 
 > I’m actively building my DevOps experience; the infrastructure tools above reflect my learning focus, not a claim of expert-level proficiency in every tool.
 
