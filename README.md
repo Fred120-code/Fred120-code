@@ -9,7 +9,6 @@
 I build practical web applications and SaaS products, with a focus on clean user experiences, reliable backends, and learning how to ship software securely.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Fred120--code-181717?style=for-the-badge&logo=github)](https://github.com/Fred120-code)
-[![Profile views](https://komarev.com/ghpvc/?username=Fred120-code&style=for-the-badge&color=4f46e5)](https://github.com/Fred120-code)
 
 </div>
 
