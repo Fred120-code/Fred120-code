@@ -30,7 +30,7 @@ I build practical web applications and SaaS products, with a focus on clean user
       <h3><a href="https://project-manager-client-gold.vercel.app/"> Project Manager</a></h3>
       A project-management application focused on organizing work, tasks, and collaboration.
       <br/><br/>
-      <a href="https://github.com/Fred120-code">Explore my repositories →</a>
+      <a href="https://github.com/Fred120-code/project-manager">Explore my repositories →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Fred120-code/spendly-saas"> Spendly AI</a></h3>
